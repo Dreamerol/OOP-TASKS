@@ -1,4 +1,9 @@
-# 💻 Homework Exercises with C++
+<h1 align="center">OBJECT-ORIENTED PROGRAMMING (OOP) – PRINCIPLES, DESIGN & APPLICATIONS</h1>
+
+---
+
+
+---
 
 ## 📘 OOP Practice Tasks
 
