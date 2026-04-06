@@ -1,7 +1,6 @@
 
 <h2 align="center">OOP – PRINCIPLES, DESIGN & APPLICATIONS</h2>
 
----
 
 
 ![c](https://github.com/Dreamerol/Dreamerol/blob/53363505987183cf0d346d18b58875d60d638e59/program22.jpg)
