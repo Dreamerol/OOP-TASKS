@@ -1,5 +1,5 @@
 
-<h2 align="center">💻 OOP – PRINCIPLES, DESIGN & APPLICATIONS</h2>
+<h1 align="center">💻 OOP – PRINCIPLES, DESIGN & APPLICATIONS</h1>
 
 
 
