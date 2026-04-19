@@ -233,6 +233,14 @@ This repository is a **practical journey into Object-Oriented Programming with C
 - Junior developers  
 - Portfolio & GitHub showcase
 
+
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
+
+
+
 ---
 
 <p align="center">
@@ -247,14 +255,6 @@ This repository is a **practical journey into Object-Oriented Programming with C
   <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
 
 </p>
-
-
-
-<p align="center">
-  🔗 Explore more on my GitHub profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
-
 
 
 
