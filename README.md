@@ -249,7 +249,6 @@ This repository is a **practical journey into Object-Oriented Programming with C
 </p>
 
 
----
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 
