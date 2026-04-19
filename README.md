@@ -14,6 +14,17 @@
   <img src="https://img.shields.io/badge/Memory-Management-red?style=for-the-badge" />
 </p>
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=oop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/DSA-Practice-7b1fa2?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean%20Code-Principles-26a69a?style=for-the-badge&logo=prettier&logoColor=white" />
+</p>
+
 ---
 
 ## 📘 OOP Practice Tasks (C++)
