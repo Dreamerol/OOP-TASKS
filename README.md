@@ -38,6 +38,21 @@ This project is designed to **build a strong OOP foundation** by applying theory
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</p>
+
+---
+
 ## 🧠 Core Concepts
 
 Each task focuses on essential OOP principles:
@@ -49,12 +64,42 @@ Each task focuses on essential OOP principles:
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</p>
+
+---
+
 ## 🛠️ What’s Inside
 
 - 📈 Progressive tasks (from basic → advanced)  
 - 🧱 Class-based architectures  
 - 🧩 Real-world problem simulations  
 - ✅ Best practices in OOP design  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</p>
 
 ---
 
@@ -69,6 +114,21 @@ By completing this repository, you will:
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</p>
+
+---
+
 ## ⚙️ Custom Implementations (From Scratch)
 
 To deepen understanding, key components are implemented **without STL**:
@@ -76,6 +136,21 @@ To deepen understanding, key components are implemented **without STL**:
 - 📦 Dynamic arrays (vector-like structures)  
 - 🔤 Custom string classes  
 - 🧠 Manual memory management  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</p>
 
 ---
 
@@ -92,6 +167,21 @@ Custom behavior for operators:
 - 📥📤 `<<`, `>>` Stream operators  
 
 ➡️ Making objects behave like built-in types  
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</p>
 
 ---
 
@@ -114,6 +204,21 @@ Extended with:
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</p>
+
+---
+
 ## 📌 Conclusion
 
 This repository is a **practical journey into Object-Oriented Programming with C++**.
@@ -131,10 +236,16 @@ This repository is a **practical journey into Object-Oriented Programming with C
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C++-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Paradigm-OOP-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Algorithms-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Memory-Management-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Paradigm-OOP-ff6f00?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Encapsulation-1e88e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inheritance-43a047?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Polymorphism-e53935?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Abstraction-8e24aa?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Algorithms-00c853?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Memory-Management-d32f2f?style=for-the-badge&logo=cachet&logoColor=white" />
+  <img src="https://img.shields.io/badge/STL-Standard%20Library-2962ff?style=for-the-badge&logo=codeforces&logoColor=white" />
+
 </p>
 
 
